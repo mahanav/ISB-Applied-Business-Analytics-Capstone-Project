@@ -4,8 +4,7 @@ The brief:
 
   Laptop features, price and sales: The laptop features are structured data and can be found in the lap_sales.csv.
   Consumer preferences and reviews: The data on consumer preferences is unstructured in nature (open-ended raw text). 
-  You collect data on Amazon reviews on laptops including the number of 'stars' consumers gave their product, the review title and of course, review text.
-  The reviews can be found in the laptop_reviews.csv.
+  You collect data on Amazon reviews on laptops consumers gave their product, the review title and of course, review text.
 
 After completing the unstructured and structured data analysis, please create a short presentation using this template outlining your recommendations to XYZ Inc backed by analytics-based evidence on:
   Laptop configurations that they should promote on their B2C platform
